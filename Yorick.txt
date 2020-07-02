@@ -1,0 +1,12 @@
+mainrune = 1
+KeyStone = 0
+First secondary rune = 1
+Secound secondary rune = 1
+third secondary rune = 1
+Secound Main Rune = 3
+first Sec Rune = none
+Secound Sec Rune = 2
+third Sec Rune = 2
+first wiered = 1
+Secound wiered = 0
+third wiered = 2
